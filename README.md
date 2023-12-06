@@ -1,7 +1,7 @@
-Project Summary: Car Price Prediction Model Development
+🚀📈Project Summary: Car Price Prediction Model Development🚗
 
 Objective:
-Developed a sophisticated car price prediction model leveraging machine learning techniques to estimate the prices of diverse vehicles accurately.
+🌟Developed a sophisticated car price prediction model leveraging machine learning techniques to estimate the prices of diverse vehicles accurately.
 
 Key Contributions:
 
