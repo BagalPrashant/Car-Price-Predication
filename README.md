@@ -6,9 +6,13 @@ Objective:
 Key Contributions:
 
 Data Collection & Preparation: Curated a comprehensive dataset encompassing various car attributes crucial for accurate pricing predictions.
+
 Exploratory Data Analysis (EDA): Conducted in-depth analysis, visualized data, and preprocessed information to ensure data quality and model readiness.
+
 Model Building & Refinement: Employed regression models and conducted rigorous evaluation, fine-tuning techniques to achieve precise predictions.
+
 System Deployment: Integrated the model into a user-friendly interface for seamless and user-centric price estimation.
+
 
 Achievements:
 
